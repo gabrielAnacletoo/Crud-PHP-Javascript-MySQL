@@ -13,4 +13,4 @@ Alterar o Banco.php
     nesta parte, sendo : Nome do Banco de Dados, Host, Usuario e Senha.
     
     Foto : 
-    ![tablefoto](https://user-images.githubusercontent.com/109560707/195859240-4d17379e-4df2-42c4-8626-961eed90d6a0.png)
+   <img src="https://uploaddeimagens.com.br/imagens/uDYgop4">
