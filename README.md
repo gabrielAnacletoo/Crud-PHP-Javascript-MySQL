@@ -13,6 +13,6 @@ Alterar o Banco.php
     nesta parte, sendo : Nome do Banco de Dados, Host, Usuario e Senha.
     
     Foto : 
- ![img](https://imgur.com/bbPjZOQ)
+ ![print](Crud-PHP-Javascript-MySQL/talefoto.png?raw=true "Title")
  
  
