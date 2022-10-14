@@ -13,4 +13,6 @@ Alterar o Banco.php
     nesta parte, sendo : Nome do Banco de Dados, Host, Usuario e Senha.
     
     Foto : 
-   <img src="https://uploaddeimagens.com.br/imagens/uDYgop4">
+ ![img](https://imgur.com/bbPjZOQ)
+ 
+ 
